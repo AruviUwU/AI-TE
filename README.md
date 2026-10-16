@@ -34,9 +34,6 @@ AI-TE04/
 │   ...
 ...
 ```
-
-*Struktur dan daftar tugas dapat disesuaikan dengan kebutuhan perkuliahan.*
-
 ## 📚 Task List
 
 | No. | Task | Description |
